@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CHUM (GIANG PRO)
+# 👋 Hi, I'm CHUM
 
 System Builder & Automation Engineer  
 Focused on **automation, practical tools, and scalable workflows**.
