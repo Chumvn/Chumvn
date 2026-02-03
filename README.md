@@ -26,8 +26,5 @@ Focused on **automation, practical tools, and scalable workflows**.
 
 ---
 
-## 📫 Connect
-🌍 chumvn.github.io  
-🐙 github.com/chumvn  
 
 > *Build tools that save time. Share systems that scale.*
