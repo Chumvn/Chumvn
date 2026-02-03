@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm CHUM (GIANG PRO)
 
-<!--
-**Chumvn/Chumvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Builder & Automation Engineer  
+Focused on **automation, practical tools, and scalable workflows**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- ⚙️ Build automation tools that save time  
+- 🧩 Design simple, connected systems  
+- 🚀 Optimize workflows & performance  
+- 📦 Create reusable scripts, prompts, and utilities  
+
+---
+
+## 🧰 Tech Stack
+**JS / TS · PowerShell · Batch · Google Apps Script · Node.js · REST API · GitHub Actions · Docker · Google Sheets**
+
+---
+
+## 🚀 Projects
+- 🧰 **CHUM Toolkit** – Automation scripts & utilities  
+- 🎬 **CinematicPrompt** – AI visual prompt system  
+- 📊 **MoneyLog** – Rental & finance automation  
+- 🌐 **chumvn / chumfast** – Tools & experiments  
+
+---
+
+## 📫 Connect
+🌍 chumvn.github.io  
+🐙 github.com/chumvn  
+
+> *Build tools that save time. Share systems that scale.*
